@@ -1,7 +1,6 @@
-#!/usr/bin/env python
-# Corey Goldberg - 2025
-#
 # Generate random string data for testing.
+# Corey Goldberg - 2025
+
 
 import random
 import string
