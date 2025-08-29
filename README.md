@@ -9,6 +9,13 @@
 
 ----
 
+## Requirements
+
+- Python 3.6+
+- no external dependencies
+
+----
+
 ## Example Usage
 
 ```python
